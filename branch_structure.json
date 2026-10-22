@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-645-feat-frontend-keyboard-navigation-for",
+    "fix/issue-618-refactor-frontend-consolidate-the-duplicate",
+    "fix/issue-622-test-frontend-add-lineagegraph-component-tests",
+    "main",
+    "origin",
+    "security/issue-637-test-frontend-add-malformed-input-tests-for-the"
+  ],
+  "parent": {
+    "feat/issue-645-feat-frontend-keyboard-navigation-for": "main",
+    "fix/issue-618-refactor-frontend-consolidate-the-duplicate": "main",
+    "fix/issue-622-test-frontend-add-lineagegraph-component-tests": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-637-test-frontend-add-malformed-input-tests-for-the": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-645-feat-frontend-keyboard-navigation-for",
+    "fix/issue-618-refactor-frontend-consolidate-the-duplicate",
+    "fix/issue-622-test-frontend-add-lineagegraph-component-tests",
+    "origin",
+    "security/issue-637-test-frontend-add-malformed-input-tests-for-the"
+  ]
+}
